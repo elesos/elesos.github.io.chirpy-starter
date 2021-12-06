@@ -3,7 +3,7 @@ title: About
 icon: fas fa-info-circle
 order: 4
 ---
-## 
+## 信息
 - 男，湖广武陵人
 - Email: admin@elesos.com
 - WeChat: elesos
